@@ -11,5 +11,6 @@ namespace QLThuocTay
     {
         tri an cuc;
         sakbf;kadbkgdb;kjn;
+            chó trường;
     }
 }
