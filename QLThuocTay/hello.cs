@@ -10,5 +10,6 @@ namespace QLThuocTay
     class hello
     {
         tri an cuc;
+        sakbf;kadbkgdb;kjn;
     }
 }
