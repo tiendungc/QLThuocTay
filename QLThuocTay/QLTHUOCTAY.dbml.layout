@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLTHUOCTAY">
+  <DataContextMoniker Name="/QLTHUOCTAYDataContext" />
+  <nestedChildShapes>
+    <classShape Id="796b466a-a409-45da-800d-3178777a1d41" absoluteBounds="2.25, 1.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QLTHUOCTAYDataContext/LOGIN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3d561269-c339-4606-be62-1cf1d76fe80c" absoluteBounds="2.265, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

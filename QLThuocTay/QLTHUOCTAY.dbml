@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLTHUOCTAY" Class="QLTHUOCTAYDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-EMSJQLJ\SQLEXPRESS;Initial Catalog=QLTHUOCTAY;Integrated Security=True" SettingsObjectName="QLThuocTay.Properties.Settings" SettingsPropertyName="QLTHUOCTAYConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.LOGIN" Member="LOGINs">
+    <Type Name="LOGIN">
+      <Column Name="USERNAME" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="AUTHORICATION" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
